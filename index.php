@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+<form method="post" action="Ubdates.php" enctype="multipart/form-data">
+    <input type="file" name="file"><br>
+    <input type="submit" name="but" value="Upload">
+</form>
+
+<?
+
+?>
+
+</body>
+</html>
